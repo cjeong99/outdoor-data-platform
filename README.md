@@ -66,6 +66,4 @@ https://ridb.recreation.gov/docs
 
 ## Dashboard Preview
 
-<p align="center">
-  <img src="assets/dashboard.png" width="900">
-</p>
+![Dashboard](assets/dashboard.png)
