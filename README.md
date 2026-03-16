@@ -44,17 +44,14 @@ Streamlit dashboard
 
 ### Install dependencies
 
-```bash
 pip install -r requirements.txt
 
 ### Run the Data Pipeline
 
-```bash
 python pipelines/camp_pipeline.py
 
 ### Launch the Dashboard
 
-```bash
 streamlit run dashboard/app.py
 
 ---
