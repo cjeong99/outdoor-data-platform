@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-
+#No Data From API, just transforming the data from bronze to silver
 def run():
 
     df = pd.read_parquet("data/bronze/recareas.parquet")
