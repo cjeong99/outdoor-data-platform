@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+
+data/bronze/*
+data/silver/*
+data/gold/*
+
+.DS_Store
